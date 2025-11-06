@@ -1,4 +1,4 @@
-# HW3 Readme
+# HW3 README
 
 ## Libraries to be installed:
 
